@@ -1,0 +1,7 @@
+{
+    "extends": ["eslint-config-staticdeploy/babel"],
+    "parserOptions": {
+        "ecmaVersion": 6,
+        "sourceType": "module"
+    }
+}
